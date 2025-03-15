@@ -23,6 +23,19 @@ In this project, I used MongoDB to analyze the data and performed several operat
 - Queries involved finding establishments with specific hygiene scores, rating values, and other attributes.
 - Converted MongoDB query results into Pandas DataFrames for further analysis.
 
+## Technologies Used:
+
+- **Python** (Libraries: PyMongo, Pandas)
+- **MongoDB** (NoSQL Database)
+- **Jupyter Notebook**
+- **Git & GitHub** (for version control and collaboration)
+
+## Files:
+
+- **NoSQL_analysis_starter.ipynb** – Jupyter notebook for performing exploratory analysis on the UK food establishments data.
+- **NoSQL_setup_starter.ipynb** – Jupyter notebook for setting up the MongoDB database and loading data.
+- **Resources/establishments.json** – The data file containing the UK Food Standards Agency's establishments data.
+
 ## Installation
 
 To get started with this project locally:
